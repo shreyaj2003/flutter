@@ -17,7 +17,14 @@ class ListGridState extends State<ListGrid> {
     "Shivam"
   ];
   Map<String, dynamic> naamSec = {
-    "naam": ['Kumar', 'Kumar', 'Kumar', 'Kumar', 'Kumar', 'Kumar'],
+    "naam": [
+      'Shreya Jain',
+      'Shreya Jain',
+      'Shreya Jain',
+      'Shreya Jain',
+      'Shreya Jain',
+      'Shreya Jain'
+    ],
     "sec": [
       'Section C',
       'Section C',
